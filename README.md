@@ -1,2 +1,2 @@
 # GoToshDino
-Repo for collaboration in the hackathon Qiskit Fall Fest. Team GoToshDIno . Team members : -  Toshith, Adithya , Haricharan
+Repo for collaboration in the hackathon Qiskit Fall Fest. Team GoToshDIno . Team members : -  Toshith, Aditya , Haricharan
